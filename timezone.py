@@ -3,8 +3,13 @@ import timezones
 import datetime
 
 tz = pytz.timezone('Asia/Kuala_Lumpur')
-ct = datetime.datetime.now(tz=tz)
-print(ct.strftime("%Y-%m-%d %H:%M:%S"))
+#print out the time zone info for example +8
+#ct = datetime.datetime.now(tz=tz)
+#hide the timezone info
+ct = datetime.datetime.now(tz=None)
+print(ct.isoformat())
+#print out the format of time and time and date
+#print(ct.strftime("%Y-%m-%d %H:%M:%S"))
 
 '''
 below is timezone that can be changed:
