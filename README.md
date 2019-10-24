@@ -13,4 +13,4 @@ Check out timezone.py script
 
 Note : If some error shown up, please install all the modules from the error shown
 
-Disclaimer: This python script is just my own script to help my friend and at the same time trying to refresh my knowledge in pyhton scripting. Kindly comment to increase the way I am code and maybe you have a different and more beautiful way to code. Thanks!
+Disclaimer: This python script is just my own script to help my friend and at the same time trying to refresh my knowledge in python scripting. Kindly comment to increase the way I am code and maybe you have a different and more beautiful way to code. Thanks!
